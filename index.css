@@ -1,0 +1,16 @@
+@import url('./reset.scss');
+
+@font-face {
+  font-family: 'diqu';
+  src: url('./font/diqu.ttf');
+}
+
+@font-face {
+  font-family: 'timefont';
+  src: url('./font/timefont.ttf');
+}
+
+@font-face {
+  font-family: 'manei';
+  src: url('./font/manei.ttf');
+}
